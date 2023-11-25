@@ -83,7 +83,7 @@ git merge <nome-do-branch>
 ## 9. git log
 
 Para visualizar o histórico de commits, utiliza-se o comando git log. Isso fornece informações detalhadas sobre os commits, como autor, data e mensagem associada.
-
+ 
 git log
 
 ## 10. git status
